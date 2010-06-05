@@ -1,0 +1,132 @@
+JASON CATENA
+Functional résumé and portfolio
+
+jason.catena@gmail.com	+1 847 344 5976	
+http://twitter.com/catenate	740 Bayberry Drive, Bartlett, IL 60103
+
+Motorola work history in iDEN, WiMax, and LTE Trial.
+http://www.linkedin.com/in/jasoncatena
+
+Peter Drucker believed "business has only two basic functions—
+marketing and innovation."  I strive consistently to better tool and
+automate my process and those around me.
+
+
+Design process and architect tool set
+
+Designed and guided evolution of two build systems, for several telecom-
+munications products in three major systems (iDEN, WiMAX, LTE), over 6.5
+and 3.5 years of development.
+
+Ported serial build system to parallel make with ElectricAccelerator by
+Electric Cloud from 2007 to 2009.
+
+Promoted and implemented daily build and continuous integration
+practices since 1999.
+
+Collecting academic and web discussion explicitly on programming as
+theory building. https://dl.getdropbox.com/u/502901/naurtf.pdf
+
+
+Code and debug
+
+Wrote 90% of all code for each of the two build systems for several
+telecommunications products in three major systems (iDEN, WiMax, LTE)
+from 1999 to 2009.  Root-caused all significant problems and implemented
+all architectural updates and extensions.  Continue to review changes.
+
+Integrating and testing commercial O&M solution to LTE TDD system.
+Refactoring C+expect special-purpose tool into C/lex+expect automation
+utility, to send command scripts from WindRiver Linux platform to
+WindRiver VxWorks and FPGA MMI interfaces.
+
+Contributing to the open-source Plan 9 research operating system and
+Go programming language.  Code: http://codereview.appspot.com/user/jdc
+Messages to 9fans: http://9fans.net/archive/?q=from:jason.catena&go=Grep
+Messages to golang-nuts: http://j.mp/7eDOXx
+
+Fluent in shell scripts, makefiles, C and lex.  Learning Go and Haskell.
+Familiar with yacc, SQL, C++, UML modeling, and Java.
+
+Wrote in 2009 a presentation layer to graph and report key performance
+indicator statistics, and improve collection within real-time modem
+software of an LTE 4G base station and server gateway.
+
+Improved build system and wrote tests for interface between subscriber
+and base radio in 1998.  Implemented Van Jacobsen header compression in
+the iDEN subscriber unit, and other improvements to the same, from 1994
+to 1997.
+
+
+Manage people and software
+
+My experience with master-craftsman teams.
+http://swtools.wordpress.com/2009/04/02/my-experience-with-master-craftsman-teams/
+
+Integrated and reviewed ten years of contributions to two multiple-
+product build systems, from dozens of team members and hundreds of
+developers at a dozen sites world-wide.
+
+Designed branching schemes for two dozen parallel branches in a half-
+dozen concurrent releases for more than 500 engineers at a dozen sites
+world-wide.
+
+Controlled versions with ClearCase.  Tracked defects with Bugzilla,
+ClearQuest, and DDTs.
+
+
+Communicate and organize
+
+Prototyped second major build system in LaTeX with noweb to create a
+series of literate programs.  These contain both code and documents in
+one source file, organized for learning and maintenance, and extracted
+to proper arrangement for execution.
+
+Automatically collected and presented key performance indicators with
+gnuplot as either real-time data, or a static graph with muted borders,
+or as a set of sparklines.  Minimized marks on data points to observe
+trends in data, as recommended by Edward Tufte.
+
+Adopted early, and promoted for work, social media tools as they became
+available on our intranet: Jabber instant messaging, Compass and Source
+Forge FAQs, Compass and Lyceum blogs, Compass wiki and twiki, Bugzilla
+defect tracking, and Laconica microblogging.
+
+Use social media to hone and share my professional experience.
+Reputation 130 from 18 answers on Stack Overflow.  1386 Delicious
+bookmarks on programming, Haskell, Twitter, programming languages,
+design, management, and programmers.
+
+Technical solutions, writing, and interests:
+http://twitter.com/catenate		http://stackoverflow.com/users/27685/jason-catena
+http://delicious.com/swtools		http://www.evernote.com/pub/catena/public/	
+http://swtools.wordpress.com/
+
+Tufte-influenced Twitter client design
+https://dl.getdropbox.com/u/502901/twient.pdf
+
+
+Research and learn
+
+Prototyped a functional, literate, and aspect-oriented parallel build
+system, to replace the one developed over ten years of practice.
+Studied academic papers on these programming techniques to implement new
+methods of implementing and varying shell scripts and makefiles.
+
+Continuing to learn functional programming by writing programs in
+Haskell, and system programming by writing programs in Go. Working
+through the Go tutorial, and examples and exercises in Real World
+Haskell by O'Sullivan et al.  Rewrote recursive and fold versions of
+Prelude list functions. https://dl.getdropbox.com/u/502901/haskell.pdf
+
+Member of the ACM since 2007.  I subscribe to the ACM Digital Library.
+
+Completed most graduate work toward MS in Computer Science at University
+of Illinois at Chicago (1994–1998) and Illinois Institute of Technology
+(1995 and 1996).  Studied advanced topics in concurrent computing
+systems, distributed computing systems, object-oriented programming
+languages and environments (C++ and Smalltalk), user interface design,
+comparative computer architecture, and concurrent programming.
+
+Earned BS in Computer Engineering from The Pennsylvania State University
+in 1994.

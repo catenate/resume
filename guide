@@ -1,4 +1,4 @@
 git status
 git add README
-git commit -a -m 'start guide and acme dump, add to README'
+git commit -a -m 'add functional resume'
 git push origin master

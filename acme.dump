@@ -6,13 +6,19 @@ w Newcol Kill Putall Dump acme.dump Exit
 c          0 New Cut Paste Snarf Sort Zerox Delcol 
 c          1 New Cut Paste Snarf Sort Zerox Delcol 
 f          0           2           0           0   2.0697168 
-          2          43          32           1           0 /home/jdc/git/resume/ Del Snarf Get | Look 
-f          0           4          28          28   6.1002179 
+          2          43          44           1           0 /home/jdc/git/resume/ Del Snarf Get | Look 
+f          0           4          28          28   4.1394336 
           4          50          28           0           0 /home/jdc/git/resume/README Del Snarf Undo | Look 
+F          0           2           0           0   6.2091503           0 
+          5          46           0           0           0 /home/jdc/git/resume/history Del Snarf | Look 
+f          0           7        1465        1501   8.2788671 
+          7          32        1748           1           1 /home/jdc/ Del Snarf Get | Look 
+f          0           8         460         460  10.3485839 
+          8          55        5445           0           0 /home/jdc/git/resume/catena.utf8 Del Snarf Undo | Look 
 f          1           1           0          11   2.0697168 
-          1          49         106           0           0 /home/jdc/git/resume/guide Del Snarf Undo | Look 
-F          1           1        1613        1613  11.6557734        1613 
-          3          46        1613           0           1 /home/jdc/git/resume/+Errors Del Snarf | Look 
+          1          49          90           0           0 /home/jdc/git/resume/guide Del Snarf Undo | Look 
+F          1           1        2744        2744  11.6557734        2744 
+          3          46        2744           0           1 /home/jdc/git/resume/+Errors Del Snarf | Look 
 # On branch master
 # Untracked files:
 #   (use "git add <file>..." to include in what will be committed)
@@ -69,3 +75,44 @@ no changes added to commit (use "git add" and/or "git commit -a")
 #	modified:   README
 #	modified:   acme.dump
 #
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   acme.dump
+#	new file:   guide
+#
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   README
+#	modified:   acme.dump
+#	modified:   guide
+#
+[master bba00b1] start guide and acme dump, add to README
+ 3 files changed, 76 insertions(+), 0 deletions(-)
+ create mode 100644 acme.dump
+ create mode 100644 guide
+To git@github.com:catenate/resume.git
+   a61d1c1..bba00b1  master -> master
+mv: mv: exit 1
+cannot stat `~/catenate.utf8': No such file or directory
+mv: cannot stat `/home/jdc/catenate.utf8'mv: exit 1
+: No such file or directory
+mv: cannot stat `/home/jdc/Downloads/catenate.utf8'mv: exit 1
+: No such file or directory
+# On branch master
+# Untracked files:
+#   (use "git add catena.utf8
+nothing added to commit but untracked files present (use "git add" to track)
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   catena.utf8
+#
+F          1           2          67         122  56.4270153         122 
+          6          25         122           0           0 +Errors Del Snarf | Look 
+can't open /home/jdc/git/resume/history: No such file or directory
+error attempting completion: No such file or directory
