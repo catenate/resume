@@ -1,4 +1,6 @@
 git status
 git add README
-git commit -a -m 'add functional resume'
+git commit -a -m 'remove quote and clean up contact tab-justify'
 git push origin master
+|fmt -w 72
+|tr '[A-Z]' '[a-z]'

@@ -6,19 +6,25 @@ w Newcol Kill Putall Dump acme.dump Exit
 c          0 New Cut Paste Snarf Sort Zerox Delcol 
 c          1 New Cut Paste Snarf Sort Zerox Delcol 
 f          0           2           0           0   2.0697168 
-          2          43          44           1           0 /home/jdc/git/resume/ Del Snarf Get | Look 
+          2          43          64           1           0 /home/jdc/git/resume/ Del Snarf Get | Look 
 f          0           4          28          28   4.1394336 
           4          50          28           0           0 /home/jdc/git/resume/README Del Snarf Undo | Look 
-F          0           2           0           0   6.2091503           0 
-          5          46           0           0           0 /home/jdc/git/resume/history Del Snarf | Look 
+f          0           5         413         413   6.2091503 
+          5          81         413           0           0 /home/jdc/git/resume/history Del Snarf Undo | Look 
 f          0           7        1465        1501   8.2788671 
           7          32        1748           1           1 /home/jdc/ Del Snarf Get | Look 
-f          0           8         460         460  10.3485839 
-          8          55        5445           0           0 /home/jdc/git/resume/catena.utf8 Del Snarf Undo | Look 
-f          1           1           0          11   2.0697168 
-          1          49          90           0           0 /home/jdc/git/resume/guide Del Snarf Undo | Look 
-F          1           1        2744        2744  11.6557734        2744 
-          3          46        2744           0           1 /home/jdc/git/resume/+Errors Del Snarf | Look 
+f          0           8         316         316  10.3485839 
+          8          70        5434           0           0 /home/jdc/git/resume/catena.utf8 Del Snarf Undo | Look Font
+F          1           0          89          89   2.0697168         121 
+          1          53         121           0           1 /home/jdc/git/resume/guide Del Snarf Undo Put | Look 
+git status
+git add README
+git commit -a -m 'add functional resume'
+git push origin master
+|fmt -w 72
+|tr '[A-Z]' '[a-z]'
+F          1           1        3283        3283  19.9346405        3283 
+          3          46        3283           0           1 /home/jdc/git/resume/+Errors Del Snarf | Look 
 # On branch master
 # Untracked files:
 #   (use "git add <file>..." to include in what will be committed)
@@ -112,7 +118,25 @@ nothing added to commit but untracked files present (use "git add" to track)
 #
 #	new file:   catena.utf8
 #
-F          1           2          67         122  56.4270153         122 
-          6          25         122           0           0 +Errors Del Snarf | Look 
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   catena.utf8
+#
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   acme.dump
+#	modified:   guide
+#
+[master a50e587] add functional resume
+ 3 files changed, 185 insertions(+), 6 deletions(-)
+ create mode 100644 catena.utf8
+To git@github.com:catenate/resume.git
+   bba00b1..a50e587  master -> master
+F          1           2         122         122  57.2984749         122 
+          6          25         122           0           1 +Errors Del Snarf | Look 
 can't open /home/jdc/git/resume/history: No such file or directory
 error attempting completion: No such file or directory
