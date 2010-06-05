@@ -1,0 +1,4 @@
+git status
+git add README
+git commit -a -m 'start guide and acme dump, add to README'
+git push origin master
