@@ -1,0 +1,11 @@
+%.pdf: %.tex
+	pdflatex $stem
+
+%.xpdf: %.pdf
+	xpdf $stem.pdf
+
+clean:
+	rm -f *.aux *.log *.out
+
+distclean: clean
+	rm -rf *.pdf

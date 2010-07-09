@@ -1,0 +1,26 @@
+nb latex primer example continuous
+http://www.maths.tcd.ie/~dwilkins/LaTeXPrimer/
+
+
+nb latex beginner guide
+http://www.tug.org/begin.html
+
+
+nb latex first document
+http://tug.ctan.org/tex-archive/info/first-latex-doc/
+
+
+nb tufte latex
+ubuntu package texlive-pictures has tufte-latex
+/usr/share/texmf-texlive/tex/latex/tufte-latex/tufte-book.cls
+/usr/share/texmf-texlive/tex/latex/tufte-latex/tufte-common.sty		
+/usr/share/texmf-texlive/tex/latex/tufte-latex/tufte-handout.cls
+
+
+nb tufte latex google code project
+http://code.google.com/p/tufte-latex/
+
+http://code.google.com/p/tufte-latex/downloads/detail?name=sample-handout-3.5.0.pdf
+http://code.google.com/p/tufte-latex/source/browse/trunk/sample-handout.tex
+
+http://code.google.com/p/tufte-latex/downloads/detail?name=sample-book-3.5.0.pdf

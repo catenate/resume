@@ -1,6 +1,7 @@
+git mv README README.md
 git status
-git add README
-git commit -a -m 'remove quote and clean up contact tab-justify'
+git commit -a -m 'Add latex source for functional resume in PDF.'
 git push origin master
+mkdir -p latex/tex
 |fmt -w 72
 |tr '[A-Z]' '[a-z]'

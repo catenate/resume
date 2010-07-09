@@ -40,13 +40,18 @@ Refactoring C+expect special-purpose tool into C/lex+expect automation
 utility, to send command scripts from WindRiver Linux platform to
 WindRiver VxWorks and FPGA MMI interfaces.
 
+Wrote in Ruby a tic-tac-toe game which does not lose, and finds forks to
+force wins when it can.¹ Used the test-driven style to ensure that it
+meets its requirements and to allow more assured refactoring.
+ ¹ http://github.com/catenate/tictestrue
+
 Contributing to the open-source Plan 9 research operating system and
 Go programming language.  Code: http://codereview.appspot.com/user/jdc
 Messages to 9fans: http://9fans.net/archive/?q=from:jason.catena&go=Grep
 Messages to golang-nuts: http://j.mp/7eDOXx
 
-Fluent in shell scripts, makefiles, C and lex.  Learning Go and Haskell.
-Familiar with yacc, SQL, C++, UML modeling, and Java.
+Fluent in shell scripts, makefiles, and C with lex.  Learning Haskell,
+Ruby, and Go. Familiar with yacc, SQL, C++, UML modeling, and Java.
 
 Wrote in 2009 a presentation layer to graph and report key performance
 indicator statistics, and improve collection within real-time modem

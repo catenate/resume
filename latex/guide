@@ -1,0 +1,4 @@
+:/-\n/
+mk catena.xpdf
+mk clean
+mk distclean
